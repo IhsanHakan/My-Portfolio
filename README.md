@@ -1,1 +1,1 @@
-# My-Portfolio
+# Capstone Project 1 (My Portfolio)
